@@ -1,2 +1,14 @@
 # livehuatihui-notes
-HTML page archive and documentation
+
+页面托管与归档说明
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
